@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "reply": "Imagine teaching a computer to think, learn, and act like a human. That is **Artificial Intelligence (AI)**. \n\nNormally, computers only do what humans tell them to do, step-by-step. If you don't write the exact code, the computer can't do the job. \n\nAI is different. Instead of giving the computer a strict set of rules, you give it **lots of information (data)** and let it figure things out for itself. \n\nHere is a simple way to understand it:\n\n### How do humans learn?\nWhen you were a toddler, your parents didn't give you a rulebook on how to recognize a cat. Instead, they pointed to different cats and said, \"Cat.\" After seeing many cats (and making a few mistakes), your brain learned what a cat looks like. \n\n### How does AI learn?\nAI learns the exact same way. If you show a computer a million pictures of cats, it notices patterns (fur, whiskers, pointy ears). Eventually, when you show it a new picture, the computer can say, *\"That's a cat!\"* with 99% accuracy.\n\n---\n\n### Everyday Examples of AI\nYou probably use AI every day without realizing it:\n* **Netflix/YouTube:** When they suggest a movie or video you might like, AI is looking at what you watched in the past and guessing what you'll enjoy next.\n* **Siri or Alexa:** When you talk to your phone and it understands your voice and answers you, that’s AI.\n* **Google Translate:** AI looks at sentences in English and figures out how to rewrite them in Spanish, French, or Japanese.\n* **Video Games:** The computer-controlled characters that fight against you or help you play are driven by AI.\n\n### In Short:\nAI is not magic. It’s just **math and massive computing power** working together to help machines recognize patterns, make decisions, and solve problems like humans do.",
+    "input_tokens": 8,
+    "output_tokens": 417,
+    "input_price_per_m": 0.3,
+    "output_price_per_m": 2.5,
+    "cost_usd": 0.0010449
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "**Artificial Intelligence (AI) in plain English**\n\nImagine a robot or a computer that can *think* a little bit like a human.  \nInstead of doing the same thing over and over, it learns from data, notices patterns, and uses that knowledge to solve new problems or make choices.\n\n- **Learning**: Think of a child learning to recognize a cat by looking at many pictures. AI does the same— it looks at tons of examples (pictures, text, sounds) and gradually learns what a cat looks like.\n- **Reasoning**: Once it has learned the patterns, it can answer questions (“Is this a cat?”), suggest things (“You might like this song”), or decide what to do next (“Drive forward because the road ahead is clear”).\n- **Doing tasks**: AI is behind voice assistants (Siri, Alexa), movie recommendations on Netflix, spam filters in email, and even self‑driving cars.\n\nSo, AI is essentially software that mimics some aspects of human thinking—recognizing patterns, learning from experience, and making decisions—allowing computers to help us in many everyday tasks.",
+    "input_tokens": 78,
+    "output_tokens": 329,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 0.00010455
+  }
+]

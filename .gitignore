@@ -1,0 +1,14 @@
+# Environment and secret files
+.env
+*.env
+.env.*
+_.env.example
+.env.example
+
+# Archives
+*.zip
+
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
